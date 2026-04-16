@@ -6,9 +6,8 @@ class Menu{
         this.linkaddReferral=page.getByText('Add Referral')
         this.linkfindpatient=page.getByText('Find Patient')
         //this.menulogoutbtn=page.getByText('Logout')
-        this.logoutButton=page.locator("xpath=//button[@data-testid='logout']")
-
-        
+        this.logoutButton=page.locator("xpath=//button[@data-testid='logout']")     
+        //Remove line from here by Manoj   
     }
     async clickOnFindPatientlink()
     {
