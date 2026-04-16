@@ -1,0 +1,29 @@
+[
+  {
+    "stock_id": 5033,
+    "stock_est_id": 68,
+    "stock_name": "LevinI",
+    "stock_category": "Medication",
+    "stock_sub_category": null,
+    "stock_que_code": "",
+    "stock_que_local_code": "8888",
+    "stock_barcode": "123",
+    "stock_item_barcode": "456",
+    "stock_letters_display_group_eli_id": 41655,
+    "stock_dispensing_limit": null,
+    "stock_total_count": 420,
+    "stock_read_only": 0,
+    "stock_auto_gen_barcode": "",
+    "stock_banding_pdf": null,
+    "stock_is_health_scheme_applicable": null,
+    "stock_gender": null,
+    "stock_record_status": "approved",
+    "stock_created": "11/03/2026",
+    "stock_created_by": "manoj.auto",
+    "stock_imported": null,
+    "stock_imported_method": null,
+    "stock_description": "addStockDescription",
+    "stock_desc_other_lang": "NameinOtherLang",
+    "stock_classification": null
+  }
+]

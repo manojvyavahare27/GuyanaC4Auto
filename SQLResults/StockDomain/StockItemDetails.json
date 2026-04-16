@@ -1,0 +1,9 @@
+[
+  {
+    "stbat_id": 22011,
+    "stbat_batch_number": "Batch15",
+    "sttra_quantity": 45,
+    "sttra_request_type": "pick list",
+    "sttra_status": "notReceived"
+  }
+]

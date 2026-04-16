@@ -1,0 +1,16 @@
+[
+  {
+    "batchSupplier": "",
+    "manufacturer": "",
+    "batchNumber": "ExtraBatch",
+    "inStockQuantity": "120",
+    "serialNumber": "112211",
+    "sterilizationExpiryDate": "",
+    "manufacturedDate": "01/01/2025",
+    "startDate": "01/01/2025",
+    "endDate": "01/03/2026",
+    "purchaseRate": "",
+    "unitCostField": "",
+    "retailPriceField": "7"
+  }
+]

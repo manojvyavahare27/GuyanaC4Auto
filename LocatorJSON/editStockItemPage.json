@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Medications",
+    "subCategory": "",
+    "nonSnomedCode": "9988",
+    "itemBarcode": "123",
+    "itemShortBarcode": "456",
+    "letterDisplayGroup": "Medication and Pharmacy",
+    "classification": "",
+    "description": "TestDescription",
+    "nameAndDescription": "TestName",
+    "unitOfMeasure": "Strips",
+    "unitOfDispense": "Tab",
+    "form": "tablet",
+    "dose": "2",
+    "frequency": "Every 12 Hours",
+    "route": "Orally",
+    "duration": "3",
+    "dilutant": "Yes",
+    "volume": "",
+    "doseMultiplier": "BSA",
+    "standardAmountToDispense": "2",
+    "ageUpperLimit": "65",
+    "ageLowerLimit": "3",
+    "maximumDosage": "5",
+    "minimumDosage": "2",
+    "gender": "",
+    "null": "false"
+  }
+]
